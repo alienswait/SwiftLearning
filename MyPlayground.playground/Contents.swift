@@ -27,3 +27,18 @@ userAgeD / myNumberD
 
 var myBlooean = false
 myBlooean = true
+
+
+var myString: String = "30"
+let anotherNumber : Int = 10
+let stringNumber : String = String(20)
+
+let myVariable : String
+
+// Initialization
+
+myVariable = "test"
+let myUpperVariable = myVariable.uppercased()
+print (myUpperVariable)
+print(myVariable)
+
